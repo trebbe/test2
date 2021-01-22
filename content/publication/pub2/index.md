@@ -9,11 +9,7 @@ authors:
 - admin
 - Robert Ford
 
-applications:
-- exampleapp
 
-application:
-- exampleapp
 
 
 # Author notes (optional)
@@ -73,8 +69,18 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects:
-- example
+#projects:
+#- example
+
+#projects:
+#- exampleapp
+
+
+applications:
+- exampleapp
+
+application:
+- exampleapp
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.

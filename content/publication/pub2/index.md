@@ -10,10 +10,10 @@ authors:
 - Robert Ford
 
 applications:
-- example
+- exampleapp
 
 application:
-- example
+- exampleapp
 
 
 # Author notes (optional)

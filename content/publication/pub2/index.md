@@ -72,8 +72,8 @@ image:
 #projects:
 #- example
 
-#projects:
-#- exampleapp
+projects:
+- exampleapp
 
 
 applications:
